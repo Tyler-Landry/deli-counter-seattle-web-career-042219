@@ -17,7 +17,7 @@ def take_a_number(place, name)
   return name, line
 end
 
-def now_serving()
+def now_serving(place)
 
 
 
