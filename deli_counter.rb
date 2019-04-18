@@ -19,6 +19,7 @@ end
 
 def now_serving(place)
   if place.length == 0 
+    puts 
 
 
 
