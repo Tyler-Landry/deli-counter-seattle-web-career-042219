@@ -7,6 +7,10 @@ def line(place)
       x += " #{index+1}. #{name}"
   end
   puts x
+  end
 end
+
+
+
 
 
