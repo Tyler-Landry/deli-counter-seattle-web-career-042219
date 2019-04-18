@@ -13,7 +13,7 @@ end
 def take_a_number(place, name)
   place.push(name)
   line = place.index(name)
-  puts "Welcome, #{name}."
+  puts "Welcome, #{name}. You are number "
 
 
 
