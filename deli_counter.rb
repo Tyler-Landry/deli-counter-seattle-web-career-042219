@@ -5,7 +5,7 @@ def line(place)
     x = "The line is currently:"
     place.each_with_index do |name, index|
       x += " #{index+1}. #{name}"
-    end
+  end
   end
   puts x
 end
