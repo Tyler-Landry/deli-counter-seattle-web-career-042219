@@ -10,4 +10,3 @@ def line(place)
   puts x
 end
 
-def
