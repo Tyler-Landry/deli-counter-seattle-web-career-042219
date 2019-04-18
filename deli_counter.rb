@@ -3,4 +3,4 @@ def line(place)
     puts "The line is currently empty."
   else
     place.each_with_index do |name, index|
-      x = 
+      x = "#{index+1} "
