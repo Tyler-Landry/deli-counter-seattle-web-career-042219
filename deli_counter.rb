@@ -1,5 +1,5 @@
 def line(place)
-  if place.length == 0
+  if place.count == 0
     puts "The line is currently empty."
   else
     x = "The line is currently:"
