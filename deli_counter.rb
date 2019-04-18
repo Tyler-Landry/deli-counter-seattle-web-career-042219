@@ -12,7 +12,7 @@ end
 
 def take_a_number(place, name)
   place.push(name)
-
+line = 
 
 
 
