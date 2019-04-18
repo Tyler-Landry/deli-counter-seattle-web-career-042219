@@ -18,6 +18,7 @@ def take_a_number(place, name)
 end
 
 def now_serving(place)
+  if place.length == 0 
 
 
 
