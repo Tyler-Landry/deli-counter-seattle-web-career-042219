@@ -11,7 +11,8 @@ def line(place)
 end
 
 def take_a_number(place, name)
-  place
+  place.push(name)
+
 
 
 
