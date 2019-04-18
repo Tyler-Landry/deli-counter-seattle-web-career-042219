@@ -22,6 +22,8 @@ def now_serving(place)
     puts "There is nobody waiting to be served!"
   elsif place.empty? == false
     puts "Currently serving #{place.shift}."
+  end
+end
 
 
 
