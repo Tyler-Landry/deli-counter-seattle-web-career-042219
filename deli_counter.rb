@@ -14,7 +14,9 @@ def take_a_number(place, name)
   place.push(name)
   line = place.index(name)
   puts "Welcome, #{name}. You are number #{place.index(name)+ 1} in line."
-  return name, line 
+  return name, line
+end
+
 
 
 
